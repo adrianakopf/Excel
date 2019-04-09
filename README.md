@@ -8,5 +8,9 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 What needs to be done: Organize and analyze a database of four thousand past projects in order to uncover any hidden trends.
 
 ![alt text](https://github.com/adrianakopf/Excel/blob/master/category_total.png)
+
+
 ![alt text](https://github.com/adrianakopf/Excel/blob/master/outcome_goals.png)
+
+
 ![alt text](https://github.com/adrianakopf/Excel/blob/master/state_month.png)
